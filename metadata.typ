@@ -14,7 +14,7 @@
   "en": [Experienced Data Analyst looking for a full time job starting from now],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein
     disponible dès maintenant],
-  "zh": [技术栈丰富、有探索精神、具有三年开发经验的前端工程师，随时可入职],
+  "zh": [技术栈丰富、有探索精神、具有三年开发经验的前端工程师，2025年7月后可入职],
 )
 
 #let cvFooterInternational = (

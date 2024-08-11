@@ -3,6 +3,18 @@
 #cvSection("职业经历")
 
 #cvEntry(
+    title: [前端架构实习生],
+    society: [小红书#hBar()行吟信息科技（上海）有限公司],
+    logo: "../src/xhs.svg",
+    date: [2024.7 - 今],
+    location: [上海市],
+    description: list(
+      [参与了前端平台的设计、开发与重构]
+    )
+)
+
+
+#cvEntry(
     title: [社区开源开发者],
     society: [GitHub],
     logo: "../src/github-mark.png",
